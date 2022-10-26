@@ -9,6 +9,13 @@ Work with a partner to implement the following user story:
 * It is done when the total number of elements in the `students` array is logged to the console.
 * It is done when, using a `for` loop, the greeting "Great to see you, CLASSMATE_NAME!" logs to the console for each classmate's name in the `students` array.
 
+## Mock Up
+The following image demonstrates the unsolved function:
+![Unsolved](./assets/images/unsolved.png)
+
+The following image demonstrates solved function:
+![Solved](./assets/images/solved.png)
+
 ## 💡 Hints
 How can you access each element using the element's index and the array name?
 
